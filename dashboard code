@@ -1,0 +1,59 @@
+# --- DASH Dashboard ---
+
+# Initialize Dash app
+app = dash.Dash(__name__)
+
+app.layout = html.Div(style={'backgroundColor': '#f9f9f9', 'padding': '20px'}, children=[
+    html.H1('📈 Service Rate Forecast Dashboard', style={'textAlign': 'center', 'color': '#003366'}),
+
+    html.Div([
+        html.Label('Select a Service:', style={'fontWeight': 'bold', 'marginBottom': '10px'}),
+        dcc.Dropdown(
+            id='service-dropdown',
+            options=[{'label': service, 'value': service} for service in services],
+            value=services[0],
+            style={'width': '60%', 'margin': 'auto'}
+        ),
+    ], style={'textAlign': 'center', 'marginBottom': '30px'}),
+
+    html.Div([
+        dcc.Graph(id='forecast-graph', config={'displayModeBar': False}),
+    ], style={'backgroundColor': 'white', 'padding': '20px', 'borderRadius': '15px', 'boxShadow': '0px 4px 8px rgba(0, 0, 0, 0.1)'}),
+
+    html.Div(id='metrics', style={
+        'marginTop': '20px',
+        'textAlign': 'center',
+        'fontSize': '20px',
+        'color': '#006400',
+        'fontWeight': 'bold'
+    })
+])
+
+@app.callback(
+    [Output('forecast-graph', 'figure'),
+     Output('metrics', 'children')],
+    [Input('service-dropdown', 'value')]
+)
+def update_graph(selected_service):
+    forecast, mape, rmse = forecast_dict[selected_service]
+
+    fig = go.Figure()
+    fig.add_trace(go.Scatter(x=forecast['ds'], y=forecast['yhat'], mode='lines', name='Predicted', line=dict(color='#1f77b4')))
+    fig.add_trace(go.Scatter(x=forecast['ds'], y=forecast['yhat_upper'], mode='lines', name='Upper Bound', line=dict(dash='dot', color='lightblue')))
+    fig.add_trace(go.Scatter(x=forecast['ds'], y=forecast['yhat_lower'], mode='lines', name='Lower Bound', line=dict(dash='dot', color='lightblue')))
+
+    fig.update_layout(
+        title=f'Forecast for {selected_service}', 
+        xaxis_title='Year', 
+        yaxis_title='Actual Rate',
+        plot_bgcolor='white',
+        paper_bgcolor='#f9f9f9',
+        font=dict(color='#333333')
+    )
+
+    metrics_text = f"✅ MAPE: {mape:.2%} | RMSE: {rmse:.2f}"
+
+    return fig, metrics_text
+
+if __name__ == '__main__':
+    app.run_server(debug=False)
