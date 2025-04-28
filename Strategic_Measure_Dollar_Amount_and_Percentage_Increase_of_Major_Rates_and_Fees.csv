@@ -1,0 +1,73 @@
+Fiscal Year,Fiscal Year Start Date,Service or Fee,Approved Rate,Actual Rate,Annual Dollar Change from Previous Fiscal Year,Percent Change from Previous Fiscal Year,Typical Ratepayer Definition
+2022,10/01/2021 12:00:00 AM,Austin Energy,1015.2,1015.2,0,0,Residential customer usage of 860 Kwh.
+2022,10/01/2021 12:00:00 AM,Austin Water,969.48,969.48,0,0,"Residential customer usage of 5,800 gallons of water and 4,000 gallons of wastewater"
+2022,10/01/2021 12:00:00 AM,Austin Resource Recovery,348.6,330.6,18,0.054,Residential customer using a 64-gallon cart
+2022,10/01/2021 12:00:00 AM,Clean Community Fee,111.6,107.4,4.2,0.039,Per single-family home
+2022,10/01/2021 12:00:00 AM,Transportation User Fee,179.52,156.48,23.04,0.147,Per single-family home
+2022,10/01/2021 12:00:00 AM,Drainage Utility Fee,141.6,141.6,0,0,"Residential customer with 3,100 sq. ft./37% of impervious cover"
+2022,10/01/2021 12:00:00 AM,Property Tax Bill,1730.16,1747.28,-17.12,-0.01,"FY22 projected median non-senior homestead assessed value of $399,760, net of 20% homestead exemption"
+2022,10/01/2021 12:00:00 AM,Total Yearly Impact,4496.16,4468.04,28.12,0.006,Combined projected increase of .6%
+2021,10/01/2020 12:00:00 AM,Austin Energy,1015.2,1056.6,-41.4,-0.039,Residential customer usage of 860 Kwh.
+2021,10/01/2020 12:00:00 AM,Austin Water,969.48,969.48,0,0,"Residential customer usage of 5,800 gallons of water and 4,000 gallons of wastewater"
+2021,10/01/2020 12:00:00 AM,Austin Resource Recovery,330.6,299.4,31.2,0.104,Residential customer using a 64-gallon cart
+2021,10/01/2020 12:00:00 AM,Clean Community Fee,107.4,107.4,0,0,Per single-family home
+2021,10/01/2020 12:00:00 AM,Transportation User Fee,156.48,153.48,3,0.02,Per single-family home
+2021,10/01/2020 12:00:00 AM,Drainage Utility Fee,141.6,141.6,0,0,"Residential customer with 3,100 sq. ft./37% of impervious cover"
+2021,10/01/2020 12:00:00 AM,Property Tax Bill,1741.17,1408.78,332.39,0.236,"FY21 projected median non-senior homestead assessed value of $362,631, net of 10% homestead exemption"
+2021,10/01/2020 12:00:00 AM,Total Yearly Impact,4461.93,4136.74,325.19,0.079,Combined projected increase of 7.9%
+2020,10/01/2019 12:00:00 AM,Austin Energy,1056.6,1056.6,15.96,0.015,Residential customer usage of 860 Kwh.
+2020,10/01/2019 12:00:00 AM,Austin Water,950.4,950.4,0,0,"Residential customer usage of 5,860 gallons of water and 3,800 gallons of wastewater"
+2020,10/01/2019 12:00:00 AM,Austin Resource Recovery,299.4,299.4,7.8,0.027,Residential customer using a 64-gallon cart
+2020,10/01/2019 12:00:00 AM,Clean Community Fee,107.4,107.4,0,0,Per single-family home
+2020,10/01/2019 12:00:00 AM,Transportation User Fee,153.48,153.48,0,0,Per single-family home
+2020,10/01/2019 12:00:00 AM,Drainage Utility Fee,141.6,141.6,0,0,"Residential customer with 3,100 sq. ft./37% of impervious cover"
+2020,10/01/2019 12:00:00 AM,Property Tax Bill,1408.78,1408.78,91.71,0.07,"FY 2020 median non-senior homestead assessed value of $353,265, net of 10% homestead exemption"
+2020,10/01/2019 12:00:00 AM,Total Yearly Impact,4117.66,4136.74,115.47,0.029,Combined projected increase of 2.9%
+2019,10/01/2018 12:00:00 AM,Austin Energy,1040.64,1040.64,-3.36,-0.003,Residential customer usage of 860 Kwh.
+2019,10/01/2018 12:00:00 AM,Austin Water,969.48,950.4,-1.44,-0.001,"Residential customer usage of 5,800 gallons of water and 4,000 gallons of wastewater"
+2019,10/01/2018 12:00:00 AM,Austin Resource Recovery,291.6,291.6,0,0,Residential customer using a 64-gallon cart
+2019,10/01/2018 12:00:00 AM,Clean Community Fee,107.4,107.4,0,0,Per single-family home
+2019,10/01/2018 12:00:00 AM,Transportation User Fee,153.48,153.48,15.24,0.11,Per single-family home
+2019,10/01/2018 12:00:00 AM,Drainage Utility Fee,141.6,141.6,0,0,"Residential customer with 3,100 sq. ft./37% of impervious cover"
+2019,10/01/2018 12:00:00 AM,Property Tax Bill,1317.07,1317.07,66.87,0.053,"FY 2018 median non-senior homestead assessed value of $332,366; homestead exemption increase from 8% to 10%"
+2019,10/01/2018 12:00:00 AM,Total Yearly Impact,4021.27,4002.19,77.31,0.02,Combined projected increase of 2.0%
+2018,10/01/2017 12:00:00 AM,Austin Energy,1089.12,1044,23.4,0.022,Residential customer usage of 895 Kwh.
+2018,10/01/2017 12:00:00 AM,Austin Water,998.28,970.92,0,0,"Residential customer usage of 5,800 gallons of water and 4,000 gallons of wastewater"
+2018,10/01/2017 12:00:00 AM,Austin Resource Recovery,291.6,291.6,0,0,Residential customer using a 64‐gallon cart
+2018,10/01/2017 12:00:00 AM,Clean Community Fee,107.4,107.4,10.8,0.112,Per single‐family home
+2018,10/01/2017 12:00:00 AM,Transportation User Fee,138.24,138.24,0,0,Per single‐family home
+2018,10/01/2017 12:00:00 AM,Drainage Utility Fee,141.6,141.6,0,0,"Residential customer with 3,100 sq. ft./37% of impervious cover"
+2018,10/01/2017 12:00:00 AM,Property Tax Bill,1250.19,1250.2,117.23,0.103,"FY 2018 median non‐senior homestead assessed value of $305,510"
+2018,10/01/2017 12:00:00 AM,Total Yearly Impact,4016.43,3943.96,151.43,0.039,Combined projected increase of 3.9%
+2017,10/01/2016 12:00:00 AM,Austin Energy,1065.72,1065.72,-44.16,-0.04,Residential customer usage of 895 Kwh.
+2017,10/01/2016 12:00:00 AM,Austin Water,998.28,998.28,35.4,0.037,"Residential customer usage of 5,800 gallons of water and 4,000 gallons of wastewater"
+2017,10/01/2016 12:00:00 AM,Austin Resource Recovery,291.6,291.6,12,0.043,Residential customer using a 64‐gallon cart
+2017,10/01/2016 12:00:00 AM,Clean Community Fee,96.6,96.6,4.8,0.052,Per single‐family home
+2017,10/01/2016 12:00:00 AM,Transportation User Fee,138.24,138.24,21,0.179,Per single‐family home
+2017,10/01/2016 12:00:00 AM,Drainage Utility Fee,141.6,141.6,11.76,0.091,"Residential customer with 3,100 sq. ft./37% of impervious cover"
+2017,10/01/2016 12:00:00 AM,Property Tax Bill,1132.92,1132.96,45.72,0.042,"FY17 median non‐senior homestead assessed value of $278,741"
+2017,10/01/2016 12:00:00 AM,Total Yearly Impact,3864.96,3865,86.52,0.023,Combined projected increase of 2.3%
+2016,10/01/2015 12:00:00 AM,Austin Energy,1254.84,1109.88,-39.96,-0.031,"Residential customer usage of 1,000 Kwh."
+2016,10/01/2015 12:00:00 AM,Austin Water,932.52,962.88,47.16,0.053,"Residential customer usage of 5,700 (2015) or 5,600 (2016) gallons of water and 4,000 gallons of wastewater"
+2016,10/01/2015 12:00:00 AM,Austin Resource Recovery,279.6,279.6,20.4,0.079,Residential customer using a 64‐gallon cart
+2016,10/01/2015 12:00:00 AM,Clean Community Fee,91.8,91.8,3,0.034,Per single‐family home
+2016,10/01/2015 12:00:00 AM,Transportation User Fee,117.24,117.24,18.24,0.184,Per single‐family home
+2016,10/01/2015 12:00:00 AM,Drainage Utility Fee,130.32,129.84,12.72,0.108,"Residential customer with 3,100 sq. ft./37% of impervious cover"
+2016,10/01/2015 12:00:00 AM,Property Tax Bill,1087.08,1087.2,-18.6,-0.017,"2016 median non‐senior homestead assessed value of $251,994 (reflects 9.6% growth over 2015)"
+2016,10/01/2015 12:00:00 AM,Total Yearly Impact,3893.4,3778.44,42.96,0.011,Combined projected increase of 1.1%
+2015,10/01/2014 12:00:00 AM,Austin Energy,1294.8,1294.8,32.64,0.026,"Residential customer usage of 1,000 Kwh."
+2015,10/01/2014 12:00:00 AM,Austin Water,1091.04,885.36,31.44,0.03,"Residential customer usage of 7,000 gallons of water and 4,700 gallons of wastewater"
+2015,10/01/2014 12:00:00 AM,Austin Resource Recovery,259.2,259.2,22.2,0.094,Residential customer using a 64Ͳgallon cart
+2015,10/01/2014 12:00:00 AM,Clean Community Fee,88.8,88.8,9,0.113,Per single-family home
+2015,10/01/2014 12:00:00 AM,Transportation User Fee,99,99,5.4,0.058,Per single-family home
+2015,10/01/2014 12:00:00 AM,Drainage Utility Fee,117.6,117.6,7.2,0.065,Per single-family home
+2015,10/01/2014 12:00:00 AM,Property Tax Bill,972.6,1105.68,41.88,0.045,"Median taxable home value of $202,254"
+2015,10/01/2014 12:00:00 AM,Total Yearly Impact,3923.04,3850.44,149.76,0.04,Average projected increase of 4.0%
+2014,10/01/2013 12:00:00 AM,Austin Energy,1262.16,1262.16,61.68,0.051,"Residential customer usage of 1,000 Kwh. No change to base rate; increases in Community Benefit, ERCOT, and Power Supply Adjustment charges."
+2014,10/01/2013 12:00:00 AM,Austin Water,1059.6,1059.6,60.72,0.061,"Residential customer usage of 8,000 gallons of water and 4,700 gallons of wastewater"
+2014,10/01/2013 12:00:00 AM,Austin Resource Recovery,237,237,0,0,Residential customer uses 64 gallon cart
+2014,10/01/2013 12:00:00 AM,Clean Community Fee,79.8,79.8,7.8,0.108,Per single‐family home/residence
+2014,10/01/2013 12:00:00 AM,Transportation User Fee,93.6,93.6,0,0,Per single‐family home/residence
+2014,10/01/2013 12:00:00 AM,Drainage Utility Fee,110.4,110.4,10.2,0.102,Per single‐family home/residence
+2014,10/01/2013 12:00:00 AM,Property Tax Bill,930.72,930.72,33.96,0.038,"Median‐priced home of $185,133"
+2014,10/01/2013 12:00:00 AM,Total Yearly Impact,3773.28,3773.28,174.36,0.048,Average projected increase of 4.8%
